@@ -30,9 +30,4 @@ This repository contains the design, simulation, and hardware implementation of 
 4. Monitor the 16x2 LCD display to verify the real-time output frequency.
 5. Connect the output terminals to your target load or external circuit.
 
-## Team Members
-* **SM Razibur Rahman** (2006134) - Pulse generator circuit design and implementation.
-* **Bashir Shahriyer Rafi** (2006136) - Half-bridge inverter assembly and troubleshooting.
-* **Samia Hossain** (2006138) - Rectifier circuit and smoothing capacitor assembly.
-* **Md. Amir Hamza** (2006145) - Complete system simulation in Proteus.
-* **Md. Jaied Hasan** (2006146) - LCD display integration and RC filter design.
+
